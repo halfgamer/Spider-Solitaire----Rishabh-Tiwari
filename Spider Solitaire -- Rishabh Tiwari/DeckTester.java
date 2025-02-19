@@ -1,17 +1,4 @@
-/*
-/*
-Name:       Rishabh Tiwari
-Date:       14 December 2024
-Period:     4
 
-Is this lab fully working?  Yes
-
-Homework problem: Make a class called coin. Make it have some attributes like weight, type (nickel,dime, etc...) and which side is facing up
-                  Add a flip method. That (on equal chance) flips the coin with an equal chance of heads or tails. Also add an attribute that
-                  determines if the coin is in your pocjet or not. If that attribute is true(meaning the coin is in the pocket), display an
-                  error method is anything else except the takeOutOfPocket() method is called.
-
- */
 
 public class DeckTester
 {
