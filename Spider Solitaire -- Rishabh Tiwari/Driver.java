@@ -1,15 +1,4 @@
-/*
-Name:       Rishabh Tiwari
-Date:       14 December 2024
-Period:     4
 
-Is this lab fully working?  Yes
-
-Homework problem: Make a class called dice, which has the instance variable of the number of sides that the dice has. Add a roll method 
-that returns a random value that is possible when the dice is rolled. Also add a overriden toString() method that prints out instnace variable(s)
-of the Dice object in a properly fotmatted way. 
-
- */
 public class Driver
 {
     public static void main(String[] args) {
